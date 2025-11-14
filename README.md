@@ -15,7 +15,7 @@ npm install
 
 npm start
 
-Com prazer! Aqui está um resumo do desafio que concluiu, dividido em componentes e funcionalidades:
+Com prazer! Aqui está um resumo do desafio que conclui, dividido em componentes e funcionalidades:
 Componentes Criados:
 
     Header: Exibe o título da aplicação.
@@ -28,7 +28,7 @@ Funcionalidade de Boas-Vindas:
     Teste Unitário: Criado para garantir o funcionamento correto da função de boas-vindas.
 
 Resumo:
-Você estruturou a página inicial em componentes reutilizáveis (Header, Botão, Card) e implementou uma funcionalidade de boas-vindas com teste unitário. O componente Card foi refatorado para incluir o formulário de login, simplificando a organização da página inicial.
+Estruturamos a página inicial em componentes reutilizáveis (Header, Botão, Card) e implementamos uma funcionalidade de boas-vindas com teste unitário. O componente Card foi refatorado para incluir o formulário de login, simplificando a organização da página inicial.
 
 <img width="946" height="498" alt="image" src="https://github.com/user-attachments/assets/4d9a0fb3-d540-4927-b7c8-b3944cb6f543" />
 
