@@ -15,7 +15,7 @@ npm install
 
 npm start
 
-Com prazer! Aqui está um resumo do desafio que você concluiu, dividido em componentes e funcionalidades:
+Com prazer! Aqui está um resumo do desafio que concluiu, dividido em componentes e funcionalidades:
 Componentes Criados:
 
     Header: Exibe o título da aplicação.
