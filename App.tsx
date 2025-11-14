@@ -6,7 +6,7 @@ import { Header } from './components/Header/Header';
 function App() {
   return (
     <ChakraProvider>
-      <Box minHeight='100vh' backgroundColor='#9413dc' padding='25px'>
+      <Box minHeight='100vh' backgroundColor='#0e0a5b' padding='25px'>
         <Header/>
           <Box backgroundColor='#FFFFFF' borderRadius='25px' padding='15px'>
             <Card>
@@ -18,7 +18,7 @@ function App() {
                   <FormHelperText>Seu email nunca será compartilhado...</FormHelperText>                
                 <Input placeholder='password' id='passwordInput' type='password' />
                 <Stack spacing={4} direction='row' align='center'>
-                  <Button onClick={login} colorScheme='teal' size='md' width='100%' marginTop='5px'>Entrar</Button>
+                  <Button onClick={login} colorScheme='green' size='md' width='100%' marginTop='5px'>Entrar</Button>
                 </Stack>
               </FormControl>           
             </Card>
