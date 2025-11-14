@@ -29,3 +29,11 @@ Funcionalidade de Boas-Vindas:
 
 Resumo:
 Você estruturou a página inicial em componentes reutilizáveis (Header, Botão, Card) e implementou uma funcionalidade de boas-vindas com teste unitário. O componente Card foi refatorado para incluir o formulário de login, simplificando a organização da página inicial.
+
+<img width="946" height="498" alt="image" src="https://github.com/user-attachments/assets/4d9a0fb3-d540-4927-b7c8-b3944cb6f543" />
+
+<img width="952" height="484" alt="image" src="https://github.com/user-attachments/assets/e945a2f1-1c62-4ab7-9074-b27543283bd9" />
+
+
+
+
